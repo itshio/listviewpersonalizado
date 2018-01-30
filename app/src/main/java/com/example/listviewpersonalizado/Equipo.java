@@ -8,7 +8,7 @@ public class Equipo {
 
 
 
-    //ATRIBUTOS
+    //ATRIBUTOS QUE NECESITAMOS (NO TIENEN PORQUE SER SIEMPRE STRINGS)
 
 
 
